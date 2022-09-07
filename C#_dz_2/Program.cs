@@ -51,7 +51,7 @@ Task_13();
 1 -> нет
 */
 
-/*
+
 void WeekDay()
 {
 Console.Write("Введи день недели, цифрой: ");
@@ -60,4 +60,4 @@ if (day == 6 | day == 7) Console.WriteLine("Выходной.");
 else Console.WriteLine("Будний день.");
 }
 WeekDay();
-*/
+

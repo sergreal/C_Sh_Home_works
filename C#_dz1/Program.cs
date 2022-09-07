@@ -81,7 +81,7 @@ Task_6();
 void Task_8()
 
 {
-    int num = 0;
+    int num = 1;
     Console.Write("Введите число: ");
     int N = Convert.ToInt32(Console.ReadLine());  
 
@@ -95,6 +95,7 @@ void Task_8()
 }
 
 Task_8();
+
 
 
 
